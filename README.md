@@ -11,7 +11,7 @@
 
 ### 🧭 About Me
 
-I'm a developer who loves building, learning, and exploring tech that makes a **real-world impact**. My focus lies in creating software that is not just functional, but also socially meaningful and empowering. I strongly believe that **technology should uplift, include, and improve lives** — one meaningful project at a time.
+I'm a developer who loves building, learning, and exploring tech that makes a **real-world impact**. My focus lies in creating software that is not just functional, but also socially meaningful and empowering. I strongly believe that **technology should uplift, include, and improve lives**; one meaningful project at a time.
 
 Currently, I’m exploring the intersection of **AI, software engineering, and human-centered design**, aiming to contribute to systems that are transparent, ethical, and helpful to society.
 
