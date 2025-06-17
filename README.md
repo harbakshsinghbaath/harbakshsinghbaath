@@ -7,6 +7,9 @@
 <h2 align="center">Hey, I'm Harbaksh 🤟</h2>
 <p align="center">Full Stack Developer 💻 • AI Enthusiast 🤖 • Clean UI Advocate 🎨</p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=harbakshsinghbaath&color=blueviolet&style=for-the-badge)
+
+
 ---
 
 ### 🧭 About Me
