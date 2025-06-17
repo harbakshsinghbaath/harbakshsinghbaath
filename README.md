@@ -41,8 +41,10 @@ Currently, I’m exploring the intersection of **AI, software engineering, and h
 
 ![Harbaksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harbakshsinghbaath&show_icons=true&theme=nightowl)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harbakshsinghbaath&layout=compact&theme=nightowl)
+
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=harbakshsinghbaath&theme=nightowl)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harbakshsinghbaath&layout=compact&theme=nightowl)
+
 
 
